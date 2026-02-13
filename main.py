@@ -16,9 +16,9 @@ from telegram.ext import (
     CallbackQueryHandler,
 )
 
-API_TOKEN = '8227525463:AAFs5KPwkjF8pe5H7Ma_qk9GjEwe0mwlXkU'
-ADMIN_CHAT_ID = -5038517747
-CHANNEL_CHAT_ID = -1003184706333
+API_TOKEN = ''
+ADMIN_CHAT_ID = -12345
+CHANNEL_CHAT_ID = -12345
 
 pending_messages = {}
 admin_messages = {}
